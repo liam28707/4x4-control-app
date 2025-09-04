@@ -1,5 +1,16 @@
-🚙 4x4 in Schools Control App
+# flutter_application_1
 
-A Flutter-based control application developed for the ADNOC Yas in Schools 4x4 Technology Challenge.
-This app was designed to control and monitor our custom-built 4x4 vehicle during the competition, providing a smooth interface for navigation and sensor feedback..
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
